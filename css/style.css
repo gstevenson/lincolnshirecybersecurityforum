@@ -298,15 +298,15 @@ header .intro-text {
 #services .service-desc hr {
 	margin-left: 0;
 }
-/* Portfolio Section */
-#portfolio {
+/* partners Section */
+#partners {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: #fff;
 }
-.portfolio-item {
+.partners-item {
 	margin: 15px 0;
 }
-.portfolio-item .hover-bg {
+.partners-item .hover-bg {
 	overflow: hidden;
 	position: relative;
 }
@@ -491,7 +491,7 @@ color: #777;
 }
 /* Footer Section*/
 #footer {
-	background: #f6f6f6;
+	background: #1f386e;
 	padding: 30px 0;
 }
 #footer p {
@@ -499,7 +499,7 @@ color: #777;
 	font-size: 14px;
 }
 #footer a {
-	color: #1f386e;
+	color: #f6f6f6;
 }
 #footer a:hover {
 	color: #e52f3c;
